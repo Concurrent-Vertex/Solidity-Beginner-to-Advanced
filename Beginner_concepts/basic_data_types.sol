@@ -8,15 +8,15 @@ contract myContract {
     bool public is18 = true;
     int public age = -18;    //a int can be signed(+ve or -vs but a uint can only be +ve)
     uint public profit = 18;  
-    // uint8 public profit = 18;  
-     uint256 public profit = 18;  
+    uint8 public profit = 18;  
+    uint256 public profit = 18;  
     
     constructor() public {
         name = "mohit";
     }
-    // function get() public view returns(string memory) {
-    //     return name;
-    // }
+    function get() public view returns(string memory) {
+        return name;
+    }
     function set(string memory _name) public {
         name = _name;
     }  
