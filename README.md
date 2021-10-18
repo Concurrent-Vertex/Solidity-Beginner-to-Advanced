@@ -3,8 +3,8 @@ A repo for solidity snippets and helpful resources
 - [What is a Smart Contract?](https://ethereum.org/en/developers/docs/smart-contracts/)
 
 ## 🔍 Cryptography
-- [What is a SHA-256](https://academy.bit2me.com/en/que-es-hash/)
-- [HASH](https://academy.bit2me.com/en/que-es-hash//)
+- [What is a SHA-256](https://academy.bit2me.com/en/sha256-algoritmo-bitcoin/)
+- [HASH](https://academy.bit2me.com/en/que-es-hash/)
 - [NONCE?](https://academy.bit2me.com/en/que-es-nonce/)
 
 # 🏗️ 🔨 Built With
