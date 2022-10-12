@@ -12,10 +12,9 @@ A repo for solidity snippets and helpful resources
 - [REMIX](https://remix.ethereum.org/): IDE Ethereum  
 - [TRUFFLE](https://www.trufflesuite.com/): A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM)
 - [HARDHAT](https://hardhat.org/): Development environment that facilitates building on Ethereum
-
-
-
-- 
+- [Foundry](https://github.com/foundry-rs/foundry) Foundry is an environment where you can test your contracts with Solidity. If you do not have a strong background in JS, Foundry is the best for you!
 
 # 🔍 Adittional Resources
 - [Blockchain Test](https://andersbrownworth.com/blockchain/distributed)
+- [Smart Contract ABI](https://johnfawole.hashnode.dev/a-developers-guide-to-mastering-smart-contract-abi-in-solidity)
+
